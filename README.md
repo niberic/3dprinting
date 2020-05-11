@@ -65,20 +65,20 @@ Using this repo to hold misc information about my 3d printing hobby.
 
 
 ## Printed Mods
-|  Mod | Pictures | Link | Make | Notes |
-| --- | --- | --- | --- | --- |
-|  PSU 92mm Shroud | https://i.imgur.com/PrmmrKM.jpg | https://www.thingiverse.com/thing:3206719 | https://www.thingiverse.com/make:709172 |  |
-|  Pi-Camera | https://i.imgur.com/vtFX5Lb.jpg | https://www.thingiverse.com/thing:3079477 |  |  |
-|  Pi-Case | https://i.imgur.com/vtFX5Lb.jpg | https://www.thingiverse.com/thing:3016364 |  |  |
-|  Cable Chains | https://i.imgur.com/qbx16xP.jpg | https://www.thingiverse.com/thing:3491926 |  |  |
-|  EZOut Filament Holder Nib Remix | https://i.imgur.com/i00T2fy.jpg | https://www.thingiverse.com/thing:4185537 |  | Remixed this design to use a PTFE tube instead. My remix isn't perfect. The PTFE tube can be moved a ~2 mm lower to feed into the EZOut more easily. |
-|  V-Slot Covers | https://imgur.com/a/UOyV4t2 | https://www.thingiverse.com/thing:3379068 |  |  |
-|  V-Slot Covers PSU | https://imgur.com/a/UOyV4t2 | https://www.thingiverse.com/thing:3469646 |  |  |
-|  V-Slot Covers Bottom Crossbeam | https://imgur.com/a/UOyV4t2 | https://www.thingiverse.com/thing:1478147 |  | Adjust the X-scale to 105mm to place into the cross-beam extrusions beneath the print bed. These are press-fit so you don't have to disassemble the entire printer. |
-|  Hotend Shroud | https://i.imgur.com/h5krssT.jpg | https://www.thingiverse.com/thing:3179892 |  |  |
-|  EZABL Mount Nib Remix | https://i.imgur.com/h5krssT.jpg |  |  | Remixed Hangtight's mount to be longer to allow access to the EZABL Pro's sensitivity adjustment screw. I also needed a hole for an old Pi-Cam mount I was using. |
-|  2040 Extrusion Half Squash Ball Vibration Dampening Feet | https://imgur.com/a/tZy5RUT | https://www.thingiverse.com/thing:3895933 |  |  |
-|  LCD Back Cover |  | https://www.thingiverse.com/thing:3302814 |  |  |
-|  LCD Silencer |  | https://www.thingiverse.com/thing:2943218 |  |  |
-|  Cable Clip |  | https://www.thingiverse.com/thing:2949858 |  |  |
-|  Extruder knob with M3 nut | https://i.imgur.com/m8fU5Sh.jpg | https://www.thingiverse.com/thing:3859775 |  |  |
+|  Mod | Pictures | Link | Notes |
+| --- | --- | --- | --- |
+|  PSU 92mm Shroud | https://i.imgur.com/PrmmrKM.jpg | https://www.thingiverse.com/make:709172 |  |
+|  Pi-Camera | https://i.imgur.com/vtFX5Lb.jpg | https://www.thingiverse.com/thing:3079477 |  |
+|  Pi-Case | https://i.imgur.com/vtFX5Lb.jpg | https://www.thingiverse.com/thing:3016364 |  |
+|  Cable Chains | https://i.imgur.com/qbx16xP.jpg | https://www.thingiverse.com/thing:3491926 |  |
+|  EZOut Filament Holder Nib Remix | https://i.imgur.com/i00T2fy.jpg | https://www.thingiverse.com/thing:4185537 | Remixed this design to use a PTFE tube instead. My remix isn't perfect. The PTFE tube can be moved a ~2 mm lower to feed into the EZOut more easily. |
+|  V-Slot Covers | https://imgur.com/a/UOyV4t2 | https://www.thingiverse.com/thing:3379068 |  |
+|  V-Slot Covers PSU | https://imgur.com/a/UOyV4t2 | https://www.thingiverse.com/thing:3469646 |  |
+|  V-Slot Covers Bottom Crossbeam | https://imgur.com/a/UOyV4t2 | https://www.thingiverse.com/thing:1478147 | Adjust the X-scale to 105mm to place into the cross-beam extrusions beneath the print bed. These are press-fit so you don't have to disassemble the entire printer. |
+|  Hotend Shroud | https://i.imgur.com/h5krssT.jpg | https://www.thingiverse.com/thing:3179892 |  |
+|  EZABL Mount Nib Remix | https://i.imgur.com/h5krssT.jpg |  | Remixed Hangtight's mount to be longer to allow access to the EZABL Pro's sensitivity adjustment screw. I also needed a hole for an old Pi-Cam mount I was using. |
+|  2040 Extrusion Half Squash Ball Vibration Dampening Feet | https://imgur.com/a/tZy5RUT | https://www.thingiverse.com/thing:3895933 |  |
+|  LCD Back Cover |  | https://www.thingiverse.com/thing:3302814 |  |
+|  LCD Silencer |  | https://www.thingiverse.com/thing:2943218 |  |
+|  Cable Clip |  | https://www.thingiverse.com/thing:2949858 |  |
+|  Extruder knob with M3 nut | https://i.imgur.com/m8fU5Sh.jpg | https://www.thingiverse.com/thing:3859775 |  |
