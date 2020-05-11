@@ -55,48 +55,30 @@ Using this repo to hold misc information about my 3d printing hobby.
 |  Tools | Beveled knives for print removal | https://smile.amazon.com/gp/product/B075SLTY8B/ | $12.95 | Useful for removing prints from build plate. |
 |  Tools | Mitutoyo Calipers 500-196 | Ebay | $31.99 |  |
 
-No longer used:
+## Unused/Replaced Hardware
+|  Part | Item | Link | Price | Picture | User Notes |
+| --- | --- | --- | --- | --- | --- |
+|  Low Profile Bed Clips | 12x uxcell photo frame clips | https://smile.amazon.com/gp/product/B0747QV3Y7/ | $3.95 |  | Switched to steel flex sheet |
+|  Glass Bed | Borosilicate Glass Bed | https://smile.amazon.com/gp/product/B07JKGNB6W/ | $19.99 |  | Switched to steel flex sheet |
+|  Adhesion | Gizmodork 235x235mm PEI Sheet | https://smile.amazon.com/gp/product/B07GSJSDWR/ | $15.95 |  | Switched to steel flex sheet |
+|  Extras and Springs | Comgrow Ender 3 Spare Parts | https://smile.amazon.com/gp/product/B07NXRGF2V/ | $13.99 |  | Still have extras, but swapped yellow springs to solid bed mounts. |
 
-Low Price Glass bed clips:
-  12x uxcell Photo Frame Clips:
-    Link: https://smile.amazon.com/gp/product/B0747QV3Y7/
-    Purchase Price: $3.95
-Borosilicate Glass Bed:
-  DCSW Borosilicate Glass bed 235x235x3.7mm
-    Link: https://smile.amazon.com/gp/product/B07JKGNB6W/
-    Purchase Price: $19.99
-PEI Sheet for glass bed:
-  Gizmo Dorks PEI 235x235mm sheet
-    Link: https://smile.amazon.com/gp/product/B07GSJSDWR/
-    Purchase Price: $15.95
-Yellow Bed Springs:
-  Comgrow Ender 3 spare parts (yellow springs, extra wheels, PTFE tube, etc.)
-    Link: https://smile.amazon.com/gp/product/B07NXRGF2V/
-    Purchase Price: $13.99
-    
 
-1.75mm Filament:
-  PLA:
-    Comgrow
-    Hatchbox
-  PETG:
-    Yoyi
-    Prusament
-  TPU:
-    Yoyi
-  Other:
-    eSUN 1.75mm cleaning filament: 
-      Link: https://smile.amazon.com/gp/product/B00MVIYNFW/
-      Purchase Price: $12.99
-
-Drybox:
-  PTFE Tubes & Fittings
-    SIQUK 5x 1.75mm PTFE tubing with 10x PC4-M6 & PC4-M10 fittings
-      Link: https://smile.amazon.com/gp/product/B07PV8754Z/
-      Purchase Price: $12.49
-  Hygrometers:
-    Veanic 4-Pack Hygrometers
-      Link: https://smile.amazon.com/gp/product/B07GNMKYCZ/
-      Purchase Price: $13.99
-  
-    
+## Printed Mods
+|  Mod | Pictures | Link | Make | Notes |
+| --- | --- | --- | --- | --- |
+|  PSU 92mm Shroud | https://i.imgur.com/PrmmrKM.jpg | https://www.thingiverse.com/thing:3206719 | https://www.thingiverse.com/make:709172 |  |
+|  Pi-Camera | https://i.imgur.com/vtFX5Lb.jpg | https://www.thingiverse.com/thing:3079477 |  |  |
+|  Pi-Case | https://i.imgur.com/vtFX5Lb.jpg | https://www.thingiverse.com/thing:3016364 |  |  |
+|  Cable Chains | https://i.imgur.com/qbx16xP.jpg | https://www.thingiverse.com/thing:3491926 |  |  |
+|  EZOut Filament Holder Nib Remix | https://i.imgur.com/i00T2fy.jpg | https://www.thingiverse.com/thing:4185537 |  | Remixed this design to use a PTFE tube instead. My remix isn't perfect. The PTFE tube can be moved a ~2 mm lower to feed into the EZOut more easily. |
+|  V-Slot Covers | https://imgur.com/a/UOyV4t2 | https://www.thingiverse.com/thing:3379068 |  |  |
+|  V-Slot Covers PSU | https://imgur.com/a/UOyV4t2 | https://www.thingiverse.com/thing:3469646 |  |  |
+|  V-Slot Covers Bottom Crossbeam | https://imgur.com/a/UOyV4t2 | https://www.thingiverse.com/thing:1478147 |  | Adjust the X-scale to 105mm to place into the cross-beam extrusions beneath the print bed. These are press-fit so you don't have to disassemble the entire printer. |
+|  Hotend Shroud | https://i.imgur.com/h5krssT.jpg | https://www.thingiverse.com/thing:3179892 |  |  |
+|  EZABL Mount Nib Remix | https://i.imgur.com/h5krssT.jpg |  |  | Remixed Hangtight's mount to be longer to allow access to the EZABL Pro's sensitivity adjustment screw. I also needed a hole for an old Pi-Cam mount I was using. |
+|  2040 Extrusion Half Squash Ball Vibration Dampening Feet | https://imgur.com/a/tZy5RUT | https://www.thingiverse.com/thing:3895933 |  |  |
+|  LCD Back Cover |  | https://www.thingiverse.com/thing:3302814 |  |  |
+|  LCD Silencer |  | https://www.thingiverse.com/thing:2943218 |  |  |
+|  Cable Clip |  | https://www.thingiverse.com/thing:2949858 |  |  |
+|  Extruder knob with M3 nut | https://i.imgur.com/m8fU5Sh.jpg | https://www.thingiverse.com/thing:3859775 |  |  |
