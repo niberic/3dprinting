@@ -18,11 +18,11 @@ Using this repo to hold misc information about my 3d printing hobby.
 ## Printer - Add-ons
 |  Part | Item | Price | Picture | User Notes |
 | --- | --- | --- | --- | --- |
-|  ABL Probe | [TH3D EZABL Pro](https://www.th3dstudio.com/product/ezabl-pro-plug-print-auto-bed-leveling-kit/ "TH3D EZABL Pro") | $44.98 | https://imgur.com/h5krssT | Installation was a little tricky, but mostly straightfoward. Need to make sure you intall and calibrate the probe at the correct distances. |
-|  Bed Mounts | [TH3D ABS Solid Bed Mounts](https://www.th3dstudio.com/product/cr-10solidmounts/ "TH3D ABS Solid Bed Mounts") | $11.99 | https://i.imgur.com/lpfMBM1.jpg | Replaced yellow springs. Requires printed washes to shim the bed to be leveled. Silicone bed mounts are a good alterntive. |
+|  ABL Probe | [TH3D EZABL Pro](https://www.th3dstudio.com/product/ezabl-pro-plug-print-auto-bed-leveling-kit/ "TH3D EZABL Pro") | $44.98 | https://imgur.com/h5krssT | Installation was a little tricky, but mostly straightforward. Need to make sure you install and calibrate the probe at the correct distances. |
+|  Bed Mounts | [TH3D ABS Solid Bed Mounts](https://www.th3dstudio.com/product/cr-10solidmounts/ "TH3D ABS Solid Bed Mounts") | $11.99 | https://i.imgur.com/lpfMBM1.jpg | Replaced yellow springs. Requires printed washes to shim the bed to be leveled. Silicone bed mounts are a good alternative. |
 |  Leadscrew Coupler | [TH3D Leadscrew Coupler](https://www.th3dstudio.com/product/upgraded-leadscrew-coupler-for-cr-10-cr-10s-tornado-ender-2-and-more/ "TH3D Leadscrew Coupler") | $4.49 |  | Potentially help with leadscrew binding. Can't say I noticed any difference as I didn't have any binding issues beforehand. |
 |  Filament Runout Sensor | [TH3D EZOut V2](https://www.th3dstudio.com/product/ezout-v2-filament-sensor-only-replacement-spare/ "TH3D EZOut V2") | $8.99 | https://imgur.com/a/Z68xYKa | Plugs in directly to the EZBoard. |
-|  OctoPi | [Raspbery Pi 3 B+](https://smile.amazon.com/gp/product/B07BDR5PDW/ "Raspbery Pi 3 B+") | $37.32 | https://imgur.com/vtFX5Lb | OctoPi plugins and remote monitoring. |
+|  OctoPi | [Raspberry Pi 3 B+](https://smile.amazon.com/gp/product/B07BDR5PDW/ "Raspbery Pi 3 B+") | $37.32 | https://imgur.com/vtFX5Lb | OctoPi plugins and remote monitoring. |
 |  OctoPi | [Raspberry Pi Camera V2](https://smile.amazon.com/gp/product/B01ER2SKFS/ "Raspberry Pi Camera V2") | $25.87 |  | For monitoring |
 |  OctoPi | [Adafruit PiCam Extension Cable 24"](https://smile.amazon.com/gp/product/B00M4DAQH8/ "Adafruit PiCam Extension Cable 24\"") | $6.34 |  |  |
 
@@ -39,8 +39,8 @@ Using this repo to hold misc information about my 3d printing hobby.
 | --- | --- | --- | --- |
 |  Wiring | [Hxtape Kapton Tape](https://smile.amazon.com/gp/product/B07CPP4LBV/ "Hxtape Kapton Tape") | $11.15 |  |
 |  Wiring Connectors | [2.54mm JST-XH Connectors Hilitchi 2/3/4/5 Pin JST-XH connector kit](https://smile.amazon.com/gp/product/B015Y6JOUG/ "2.54mm JST-XH Connectors Hilitchi 2/3/4/5 Pin JST-XH connector kit") | $10.69 | Mainboard connectors |
-|  Wiring Connectors | [2.5mm JST-SM Connectors:](https://smile.amazon.com/gp/product/B0188IN930/ "2.5mm JST-SM Connectors:") | $7.99 | Used for hotend fans to make them hotswappable. Can also use DuPont connectors. |
-|  Wiring Tools | [Engineers PA-09 for AWB32-20 Wires](https://smile.amazon.com/gp/product/B07QM9X536/ "Engineers PA-09 for AWB32-20 Wires") | $45.90 | Can be replaced with cheaper alternatives. |
+|  Wiring Connectors | [2.5mm JST-SM Connectors:](https://smile.amazon.com/gp/product/B0188IN930/ "2.5mm JST-SM Connectors:") | $7.99 | Used for hotend fans to make them hot swappable. Can also use DuPont connectors. |
+|  Wiring Tools | [Engineers PA-09 for AWG32-20 Wires](https://smile.amazon.com/gp/product/B07QM9X536/ "Engineers PA-09 for AWG32-20 Wires") | $45.90 | Can be replaced with cheaper alternatives. |
 |  Wiring Tools & Connectors | [Sopoby Ferrule Crimping Tool for Terminal Blocks](https://smile.amazon.com/gp/product/B07K17VDF2/ "Sopoby Ferrule Crimping Tool for Terminal Blocks") | $22.99 | Changed the terminal block wiring that goes into the mainboard to ferrules for fire safety. |
 
 ## Extra Tools/Parts
@@ -50,7 +50,7 @@ Using this repo to hold misc information about my 3d printing hobby.
 |  Metric Fasteners | [Hilitchi Assorted M3 M4 M5 Steel Socket Cap Screws](https://smile.amazon.com/gp/product/B073SWXPYR/ "Hilitchi Assorted M3 M4 M5 Steel Socket Cap Screws") | $14.99 | Useful for general 3D prints. |
 |  Metric Fasteners | [Sutemribor Stainless Steel nylon lock nuts M3 M4 M5 M6 M8 M10 M12](https://smile.amazon.com/gp/product/B07CQJZMPF/ "Sutemribor Stainless Steel nylon lock nuts M3 M4 M5 M6 M8 M10 M12") | $11.69 | Used to secure solid ABS bed mounts. |
 |  Tools | [Hyde Tools Brass wire cleaning brushes:](https://smile.amazon.com/gp/product/B000HJ9FJ6/ "Hyde Tools Brass wire cleaning brushes:") | $5.93 | Decent for cleaning the nozzle. |
-|  Tools | [XOOL ESD Tweezer kit](https://smile.amazon.com/gp/product/B06XXXQHS8/ "XOOL ESD Tweezer kit") | $10.99 | Great for picking the filament that oozes from the nozzle while the printer is pre-heating prior to printing the purge line. |
+|  Tools | [XOOL ESD Tweezer kit](https://smile.amazon.com/gp/product/B06XXXQHS8/ "XOOL ESD Tweezer kit") | $10.99 | Great for picking the filament that oozes from the nozzle while the printer is preheating prior to printing the purge line. |
 |  Tools | [ACM Economy Wash Bottle](https://smile.amazon.com/gp/product/B00WTHLR18/ "ACM Economy Wash Bottle") | $5.99 | Filled with isopropyl alcohol and makes it easy to apply on microfiber cloths, paper towels, build plate, etc. |
 |  Tools | [Beveled knives for print removal](https://smile.amazon.com/gp/product/B075SLTY8B/ "Beveled knives for print removal") | $12.95 | Useful for removing prints from build plate. |
 |  Tools | Mitutoyo Calipers 500-196 | $31.99 |  |
