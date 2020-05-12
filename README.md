@@ -76,7 +76,7 @@ Using this repo to hold misc information about my 3d printing hobby.
 |  [V-Slot Covers PSU](https://www.thingiverse.com/thing:3469646 "V-Slot Covers PSU") | https://imgur.com/a/UOyV4t2 | Has nice cutouts for the PSU screws |
 |  [V-Slot Covers Bottom Crossbeam](https://www.thingiverse.com/thing:1478147 "V-Slot Covers Bottom Crossbeam") | https://imgur.com/a/UOyV4t2 | Adjust the X-scale to 105mm to place into the cross-beam extrusions beneath the print bed. These are press-fit so you don't have to disassemble the entire printer. |
 |  [Hotend Shroud](https://www.thingiverse.com/thing:3179892 "Hotend Shroud") | https://i.imgur.com/h5krssT.jpg | Works great and haven't had any problems. |
-|  PSU 92mm Shroud | https://i.imgur.com/h5krssT.jpg | Remixed Hangtight's mount to be longer to allow access to the EZABL Pro's sensitivity adjustment screw. I also needed a hole for an old Pi-Cam mount I was using. |
+|  EZABL Mount Nib Remix | https://i.imgur.com/h5krssT.jpg | Remixed Hangtight's mount to be longer to allow access to the EZABL Pro's sensitivity adjustment screw. I also needed a hole for an old Pi-Cam mount I was using. |
 |  [2040 Extrusion Half Squash Ball Vibration Dampening Feet](https://www.thingiverse.com/thing:3895933 "2040 Extrusion Half Squash Ball Vibration Dampening Feet") | https://imgur.com/a/tZy5RUT | Really helps elimiate all vibrations from the printer. |
 |  [LCD Back Cover](https://www.thingiverse.com/thing:3302814 "LCD Back Cover") |  |  |
 |  [LCD Silencer](https://www.thingiverse.com/thing:2943218 "LCD Silencer") |  | Can also print the back cover that includes the silencer. |
