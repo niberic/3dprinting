@@ -65,20 +65,19 @@ Using this repo to hold misc information about my 3d printing hobby.
 
 
 ## Printed Mods
-|  Mod | Pictures | Notes |
-| --- | --- | --- |
-|  [PSU 92mm Shroud](https://www.thingiverse.com/make:709172 "PSU 92mm Shroud") | https://i.imgur.com/PrmmrKM.jpg | Super quiet PSU now. Easy installation, just need to be careful connecting the fan header. |
-|  [Pi-Camera](https://www.thingiverse.com/thing:3079477 "Pi-Camera") | https://i.imgur.com/vtFX5Lb.jpg | Modified' my Pi-Case to attach this camera mount onto. |
-|  [Pi-Case](https://www.thingiverse.com/thing:3016364 "Pi-Case") | https://i.imgur.com/vtFX5Lb.jpg |  |
-|  [Cable Chains](https://www.thingiverse.com/thing:3491926 "Cable Chains") | https://i.imgur.com/qbx16xP.jpg | X-axis (hotend) and Y-axis (bed) cable chains work great. Z-axis was pretty useless so I removed it. |
-|  [EZOut Filament Holder Nib Remix](https://www.thingiverse.com/thing:4185537 "EZOut Filament Holder Nib Remix") | https://i.imgur.com/i00T2fy.jpg | Remixed this design to use a PTFE tube instead. My remix isn't perfect. The PTFE tube can be moved a ~2 mm lower to feed into the EZOut more easily. |
-|  [V-Slot Covers](https://www.thingiverse.com/thing:3379068 "V-Slot Covers") | https://imgur.com/a/UOyV4t2 | Helps keep dust out of the extrusions |
-|  [V-Slot Covers PSU](https://www.thingiverse.com/thing:3469646 "V-Slot Covers PSU") | https://imgur.com/a/UOyV4t2 | Has nice cutouts for the PSU screws |
-|  [V-Slot Covers Bottom Crossbeam](https://www.thingiverse.com/thing:1478147 "V-Slot Covers Bottom Crossbeam") | https://imgur.com/a/UOyV4t2 | Adjust the X-scale to 105mm to place into the cross-beam extrusions beneath the print bed. These are press-fit so you don't have to disassemble the entire printer. |
-|  [Hotend Shroud](https://www.thingiverse.com/thing:3179892 "Hotend Shroud") | https://i.imgur.com/h5krssT.jpg | Works great and haven't had any problems. |
-|  EZABL Mount Nib Remix | https://i.imgur.com/h5krssT.jpg | Remixed Hangtight's mount to be longer to allow access to the EZABL Pro's sensitivity adjustment screw. I also needed a hole for an old Pi-Cam mount I was using. |
-|  [2040 Extrusion Half Squash Ball Vibration Dampening Feet](https://www.thingiverse.com/thing:3895933 "2040 Extrusion Half Squash Ball Vibration Dampening Feet") | https://imgur.com/a/tZy5RUT | Really helps elimiate all vibrations from the printer. |
-|  [LCD Back Cover](https://www.thingiverse.com/thing:3302814 "LCD Back Cover") |  |  |
-|  [LCD Silencer](https://www.thingiverse.com/thing:2943218 "LCD Silencer") |  | Can also print the back cover that includes the silencer. |
-|  [Cable Clip (Mirrored)](https://www.thingiverse.com/thing:2949858 "Cable Clip (Mirrored)") |  | Does a good job tidying up the cables and prevents the bed from hitting them. |
-|  [Extruder knob with M3 nut](https://www.thingiverse.com/thing:3859775 "Extruder knob with M3 nut") | https://i.imgur.com/m8fU5Sh.jpg | Much better solution than knobs that don't have a set screw. |
+|  Extruder | [Extruder knob with M3 nut](https://www.thingiverse.com/thing:3859775 "Extruder knob with M3 nut") | https://i.imgur.com/m8fU5Sh.jpg | Much better solution than knobs that don't have a set screw. My previous knobs failed/broke. |
+| --- | --- | --- | --- |
+|  Filament | [EZOut Filament Holder Nib Remix](https://www.thingiverse.com/thing:4185537 "EZOut Filament Holder Nib Remix") | https://i.imgur.com/i00T2fy.jpg | Remixed this design to use a PTFE tube instead. My remix isn't perfect. The PTFE tube can be moved a ~2 mm lower to feed into the EZOut more easily. |
+|  Frame | [V-Slot Covers](https://www.thingiverse.com/thing:3379068 "V-Slot Covers") | https://imgur.com/a/UOyV4t2 | Helps keep dust out of the extrusions |
+|  Frame | [V-Slot Covers PSU](https://www.thingiverse.com/thing:3469646 "V-Slot Covers PSU") | https://imgur.com/a/UOyV4t2 | Has nice cutouts for the PSU screws |
+|  Frame | [V-Slot Covers Bottom Crossbeam](https://www.thingiverse.com/thing:1478147 "V-Slot Covers Bottom Crossbeam") | https://imgur.com/a/UOyV4t2 | Adjust the X-scale to 105mm to place into the cross-beam extrusions beneath the print bed. These are press-fit so you don't have to disassemble the entire printer. |
+|  Frame | [2040 Extrusion Half Squash Ball Vibration Dampening Feet](https://www.thingiverse.com/thing:3895933 "2040 Extrusion Half Squash Ball Vibration Dampening Feet") | https://imgur.com/a/tZy5RUT | Really helps elimiate all vibrations from the printer. |
+|  Hotend | [Hotend Shroud](https://www.thingiverse.com/thing:3179892 "Hotend Shroud") | https://i.imgur.com/h5krssT.jpg | Works great and haven't had any problems. |
+|  Hotend | EZABL Mount Nib Remix | https://i.imgur.com/h5krssT.jpg | Remixed Hangtight's mount to be longer to allow access to the EZABL Pro's sensitivity adjustment screw. I also needed a hole for an old Pi-Cam mount I was using. |
+|  LCD | [LCD Back Cover](https://www.thingiverse.com/thing:3302814 "LCD Back Cover") |  |  |
+|  LCD | [LCD Silencer](https://www.thingiverse.com/thing:2943218 "LCD Silencer") |  | Can also print the back cover that includes the silencer. |
+|  OctoPi | [Pi-Camera](https://www.thingiverse.com/thing:3079477 "Pi-Camera") | https://i.imgur.com/vtFX5Lb.jpg | Modified' my Pi-Case to attach this camera mount onto. |
+|  OctoPi | [Pi-Case](https://www.thingiverse.com/thing:3016364 "Pi-Case") | https://i.imgur.com/vtFX5Lb.jpg |  |
+|  PSU | [PSU 92mm Shroud](https://www.thingiverse.com/make:709172 "PSU 92mm Shroud") | https://i.imgur.com/PrmmrKM.jpg | Super quiet PSU now. Easy installation, just need to be careful connecting the fan header. |
+|  Wire management | [Cable Chains](https://www.thingiverse.com/thing:3491926 "Cable Chains") | https://i.imgur.com/qbx16xP.jpg | X-axis (hotend) and Y-axis (bed) cable chains work great. Z-axis was pretty useless so I removed it. |
+|  Wire management | [Cable Clip (Mirrored)](https://www.thingiverse.com/thing:2949858 "Cable Clip (Mirrored)") |  | Does a good job tidying up the cables and prevents the bed from hitting them. |
