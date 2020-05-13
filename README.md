@@ -65,13 +65,14 @@ Using this repo to hold misc information about my 3d printing hobby.
 
 
 ## Printed Mods
-|  Extruder | [Extruder knob with M3 nut](https://www.thingiverse.com/thing:3859775 "Extruder knob with M3 nut") | https://i.imgur.com/m8fU5Sh.jpg | Much better solution than knobs that don't have a set screw. My previous knobs failed/broke. |
+|  Part | Mod | Pictures | Notes |
 | --- | --- | --- | --- |
+|  Extruder | [Extruder knob with M3 nut](https://www.thingiverse.com/thing:3859775 "Extruder knob with M3 nut") | https://i.imgur.com/m8fU5Sh.jpg | Much better solution than knobs that don't have a set screw. My previous knobs failed/broke. |
 |  Filament | [EZOut Filament Holder Nib Remix](https://www.thingiverse.com/thing:4185537 "EZOut Filament Holder Nib Remix") | https://i.imgur.com/i00T2fy.jpg | Remixed this design to use a PTFE tube instead. My remix isn't perfect. The PTFE tube can be moved a ~2 mm lower to feed into the EZOut more easily. |
 |  Frame | [V-Slot Covers](https://www.thingiverse.com/thing:3379068 "V-Slot Covers") | https://imgur.com/a/UOyV4t2 | Helps keep dust out of the extrusions |
 |  Frame | [V-Slot Covers PSU](https://www.thingiverse.com/thing:3469646 "V-Slot Covers PSU") | https://imgur.com/a/UOyV4t2 | Has nice cutouts for the PSU screws |
 |  Frame | [V-Slot Covers Bottom Crossbeam](https://www.thingiverse.com/thing:1478147 "V-Slot Covers Bottom Crossbeam") | https://imgur.com/a/UOyV4t2 | Adjust the X-scale to 105mm to place into the cross-beam extrusions beneath the print bed. These are press-fit so you don't have to disassemble the entire printer. |
-|  Frame | [2040 Extrusion Half Squash Ball Vibration Dampening Feet](https://www.thingiverse.com/thing:3895933 "2040 Extrusion Half Squash Ball Vibration Dampening Feet") | https://imgur.com/a/tZy5RUT | Really helps elimiate all vibrations from the printer. |
+|  Frame | [2040 Extrusion Half Squash Ball Vibration Dampening Feet](https://www.thingiverse.com/thing:3895933 "2040 Extrusion Half Squash Ball Vibration Dampening Feet") | https://imgur.com/a/tZy5RUT | Really helps eliminate all vibrations from the printer. |
 |  Hotend | [Hotend Shroud](https://www.thingiverse.com/thing:3179892 "Hotend Shroud") | https://i.imgur.com/h5krssT.jpg | Works great and haven't had any problems. |
 |  Hotend | EZABL Mount Nib Remix | https://i.imgur.com/h5krssT.jpg | Remixed Hangtight's mount to be longer to allow access to the EZABL Pro's sensitivity adjustment screw. I also needed a hole for an old Pi-Cam mount I was using. |
 |  LCD | [LCD Back Cover](https://www.thingiverse.com/thing:3302814 "LCD Back Cover") |  |  |
