@@ -4,12 +4,19 @@ Using this repo to hold misc information about my 3d printing hobby.
 # Table of Contents:
 
 1. [Printer - Core](#printer---core)
+    * List of core printed mods
 2. [Printer - Add-ons](#printer---add-ons)
+    * QOL add-ons.
 3. [Cooling](#cooling)
+    * Details on my cooling solutions.
 4. [Wiring](#wiring)
+    * Hardware used for wiring things together
 5. [Extra Tools/Parts](#extra-toolsparts)
+    * Extra printer parts and misc tools I use.
 6. [Unused Hardware](#unusedreplaced-hardware)
+    * Old hardware that was replaced.
 7. [Printed Mods](#printed-mods)
+    * List of printer mods that are currently installed.
 
 ## Printer - Core
 |  Part | Item | Price | Item Notes | Picture | User Notes |
