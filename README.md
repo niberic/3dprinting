@@ -5,11 +5,11 @@ Using this repo to hold misc information about my 3d printing hobby.
 
 1. [Printer - Core](#printer---core)
 2. [Printer - Add-ons](#printer---add-ons)
-3. Cooling
-4. Wiring
-5. Extra Tools/Parts
-6. Unused Hardware
-7. Printed Mods
+3. [Cooling](#cooling)
+4. [Wiring](#wiring)
+5. [Extra Tools/Parts](#extra-toolsparts)
+6. [Unused Hardware](#unusedreplaced-hardware)
+7. [Printed Mods](#printed-mods)
 
 ## Printer - Core
 |  Part | Item | Price | Item Notes | Picture | User Notes |
