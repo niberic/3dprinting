@@ -1,6 +1,16 @@
 # 3dprinting
 Using this repo to hold misc information about my 3d printing hobby.
 
+# Table of Contents:
+
+1. [Printer - Core](https://github.com/niberic/3dprinting#printer---core)
+2. Printer - Add-ons
+3. Cooling
+4. Wiring
+5. Extra Tools/Parts
+6. Unused Hardware
+7. Printed Mods
+
 ## Printer - Core
 |  Part | Item | Price | Item Notes | Picture | User Notes |
 | --- | --- | --- | --- | --- | --- |
