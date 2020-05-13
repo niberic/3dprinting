@@ -65,12 +65,12 @@ Using this repo to hold misc information about my 3d printing hobby.
 | --- | --- | --- | --- |
 |  PTFE Tube & Fittings | [Extra PTFE tube w/ PC4-M6 & PC4-M10 fittings](https://smile.amazon.com/gp/product/B07FS2Y148/ "Extra PTFE tube w/ PC4-M6 & PC4-M10 fittings") | $8.99 | Better than the stock fittings, but extruder fittings (PC4-M6) eventually failed over time (2-ish months). |
 |  Metric Fasteners | [Hilitchi Assorted M3 M4 M5 Steel Socket Cap Screws](https://smile.amazon.com/gp/product/B073SWXPYR/ "Hilitchi Assorted M3 M4 M5 Steel Socket Cap Screws") | $14.99 | Useful for general 3D prints. |
-|  Metric Fasteners | [Sutemribor Stainless Steel nylon lock nuts M3 M4 M5 M6 M8 M10 M12](https://smile.amazon.com/gp/product/B07CQJZMPF/ "Sutemribor Stainless Steel nylon lock nuts M3 M4 M5 M6 M8 M10 M12") | $11.69 | Used to secure solid ABS bed mounts. |
-|  Tools | [Hyde Tools Brass wire cleaning brushes:](https://smile.amazon.com/gp/product/B000HJ9FJ6/ "Hyde Tools Brass wire cleaning brushes:") | $5.93 | Decent for cleaning the nozzle. |
+|  Metric Fasteners | [Sutemribor Stainless Steel nylon lock nuts M3 M4 M5 M6 M8 M10 M12](https://smile.amazon.com/gp/product/B07CQJZMPF/ "Sutemribor Stainless Steel nylon lock nuts M3 M4 M5 M6 M8 M10 M12") | $11.69 | Used to secure solid ABS bed mounts. Better than standard nuts since they have a nylon insert to keep them from vibrating loose. |
+|  Tools | [Hyde Tools Brass wire cleaning brushes:](https://smile.amazon.com/gp/product/B000HJ9FJ6/ "Hyde Tools Brass wire cleaning brushes:") | $5.93 | Decent for cleaning the nozzle. Need to be careful not to come into contact with any of the hotend wires! Can short and damage something! |
 |  Tools | [XOOL ESD Tweezer kit](https://smile.amazon.com/gp/product/B06XXXQHS8/ "XOOL ESD Tweezer kit") | $10.99 | Great for picking the filament that oozes from the nozzle while the printer is preheating prior to printing the purge line. |
 |  Tools | [ACM Economy Wash Bottle](https://smile.amazon.com/gp/product/B00WTHLR18/ "ACM Economy Wash Bottle") | $5.99 | Filled with isopropyl alcohol and makes it easy to apply on microfiber cloths, paper towels, build plate, etc. |
 |  Tools | [Beveled knives for print removal](https://smile.amazon.com/gp/product/B075SLTY8B/ "Beveled knives for print removal") | $12.95 | Useful for removing prints from build plate. |
-|  Tools | Mitutoyo Calipers 500-196 | $31.99 |  |
+|  Tools | Mitutoyo Calipers 500-196 | $31.99 | Bought used from an ebay auction. Great for measuring everything. |
 
 ## Unused/Replaced Hardware
 |  Part | Item | Price | User Notes |
