@@ -29,7 +29,7 @@ Using this repo to hold misc information about my 3d printing hobby.
 |  PTFE Tube | [TH3D Tough Tube (1 meter)](https://www.th3dstudio.com/product/tough-tube-high-temp-high-tolerance-ptfe-tubing/ "TH3D Tough Tube (1 meter)") | $7.99 |  | https://imgur.com/a/3DGhgDw |  |
 |  Extruder | [HICTOP Single geared aluminum extruder](https://smile.amazon.com/gp/product/B0761PGLZ4/ "HICTOP Single geared aluminum extruder") | $14.98 |  | https://imgur.com/a/3DGhgDw |  |
 |  Print Bed | [TH3D EZFlex Textured PEI spring steel sheet](https://www.th3dstudio.com/product/ezflex2-flex-plate-smooth-or-textured-pei-coating/ "TH3D EZFlex Textured PEI spring steel sheet") | $22.99 |  | https://imgur.com/a/9HC4SUb | Works great! I used the textured for mainly PETG, while I use the smooth for both PETG and PLA. |
-|  Print Bed | [TH3D Magnetic Sheet](https://www.th3dstudio.com/product/ezflex-magnetic-base/?attribute_size=235x235mm "TH3D Magnetic Sheet") | $11.99 |  |  | I removed my original magnetic sheet on my E3Pro so I needed a new one. Works fine. |
+|  Print Bed | [TH3D Magnetic Sheet](https://www.th3dstudio.com/product/ezflex-magnetic-base/?attribute_size=235x235mm "TH3D Magnetic Sheet") | $11.99 |  | https://i.imgur.com/REyS8DU.jpg | I removed my original magnetic sheet on my E3Pro so I needed a new one. Works fine, and rated up to 140°C. Note, I cut holes in the magnetic sheet for access to the bed mounting screws.|
 |  Print Bed | [TH3D EZPEI](https://www.th3dstudio.com/product/ezpei-sheet-multiple-sizes/ "TH3D EZPEI") | $11.99 |  |  | Attached to the back of my textured EZFlex. Works great with no notable problems. |
 
 ## Printer - Add-ons
