@@ -17,6 +17,10 @@ Using this repo to hold misc information about my 3d printing hobby.
     * Old hardware that was replaced.
 7. [Printed Mods](#printed-mods)
     * List of printer mods that are currently installed.
+8. Wiki Articles
+    * [Ferrules with the Ender 3](https://github.com/niberic/3dprinting/wiki/Ferrules-with-the-Ender-3)
+    * [Making the Ender Quieter](https://github.com/niberic/3dprinting/wiki/Making-the-Ender-3-Pro-quieter)
+    * [Useful links](https://github.com/niberic/3dprinting/wiki/Useful-Links-on-3D-Printing)
 
 ## Printer - Core
 |  Part | Item | Price | Item Notes | Picture | User Notes |
